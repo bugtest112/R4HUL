@@ -1,0 +1,6 @@
+telegram:
+  - id: "tel"
+    telegram_api_key: "5848190377:AAGjVA3452QLn9NdTqvh09zOsN5Uky2cNSc"
+    telegram_chat_id: "5590864433"
+    telegram_format: "{{data}}"
+    telegram_parsemode: "Markdown" # None/Markdown/MarkdownV2/HTML (https://core.telegram.org/bots/api#formatting-options)
